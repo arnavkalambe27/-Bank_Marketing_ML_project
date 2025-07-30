@@ -11,3 +11,5 @@ StandardScaler: This method scales features to have a mean of 0 and a standard d
 
 4.MinMaxScaler: This method scales features to a fixed range, typically between 0 and 1.
 Model Training and Evaluation: A Logistic Regression model is trained on the data scaled using StandardScaler. The model's performance is then evaluated using metrics such as accuracy, precision, recall, F1-score, and a confusion matrix. The next planned step is to evaluate the model using MinMax scaled data.
+
+## Dataset Details
