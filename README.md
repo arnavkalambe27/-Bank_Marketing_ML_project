@@ -1,6 +1,7 @@
 # Bank  Marketing ML project
 ## Project Overview
 This project involves building a classification model to predict a target variable based on the provided bank-full.csv dataset. The key steps undertaken are:
+
 1.Data Loading and Preprocessing: The bank-full.csv dataset is loaded. The target variable 'y' is separated from the features. Categorical features are identified and then transformed using One-Hot Encoding. Numerical features are identified.
 
 2.Data Splitting: The combined features are split into training and testing sets to prepare for model training and evaluation.
